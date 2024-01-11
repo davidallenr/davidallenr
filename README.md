@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidallenr&label=Profile%20views&color=0e75b6&style=flat" alt="davidallenr" /> </p>
 
-- 🌱 I’m currently learning **Python, C++**
-
-- 👨‍💻 All of my projects are available at [davidallenrussell.com](davidallenrussell.com)
+- 🌱 I’m currently learning **Python, Typescript, Node**
 
 - 📫 How to reach me **admin@davidallenrussell.com**
 
